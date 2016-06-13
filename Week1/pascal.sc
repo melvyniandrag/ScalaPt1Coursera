@@ -1,0 +1,1 @@
+def pascal(c : Int, r : Int): Int

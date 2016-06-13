@@ -1,0 +1,35 @@
+run
+compile
+test
+run
+compile
+run
+cd ..
+exit
+run
+last compile:run
+compile
+run
+test
+compile
+run
+submit
+sbt submit melvyniandrag@gmail.com TcLDulRSeTRfas8w
+submit melvyniandrag@gmail.com TcLDulRSeTRfas8w
+task:submit melvyniandrag@gmail.com TcLDulRSeTRfas8w
+submit melvyniandrag@gmail.com TcLDulRSeTRfas8w
+run
+submit melvyniandrag@gmail.com
+submit melvyniandrag@gmail.com TcLDulRSeTRfas8w
+submit TcLDulRSeTRfas8w melvyniandrag@gmail.com
+submit melvyniandrag@gmail.com.
+submit melvyniandrag@gmail.com. TcLDulRSeTRfas8w
+ls
+exit
+test
+compile
+run
+submit melvyniandrag@gmail.com TcLDulRSeTRfas8w
+exit
+submit
+exit
