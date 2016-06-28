@@ -1,0 +1,15 @@
+package test
+
+object test {
+  val a = new sub
+}
+
+abstract class base {
+  def foo = 1
+  def bar : Int
+}
+
+class sub extends base {
+  override def foo = 2
+  def bar = 2
+}
