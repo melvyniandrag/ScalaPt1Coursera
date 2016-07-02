@@ -9,6 +9,7 @@
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workingSets/>"/>
     <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1466012212865"/>
     <tags>topLevel</tags>
+    <tags>shellMaximized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_ukB80jMfEeaN5bFKc4LLBg" selectedElement="_ukB80zMfEeaN5bFKc4LLBg" horizontal="true">
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_ukB80zMfEeaN5bFKc4LLBg" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_vVw7wDMfEeaN5bFKc4LLBg">
         <children xsi:type="advanced:Perspective" xmi:id="_vVw7wDMfEeaN5bFKc4LLBg" elementId="org.scala-ide.sdt.core.perspective" selectedElement="_vVw7wTMfEeaN5bFKc4LLBg" label="Scala" iconURI="platform:/plugin/org.scala-ide.sdt.core/icons/full/eview16/sperspective.gif">
@@ -91,7 +92,7 @@
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <children xsi:type="basic:Part" xmi:id="_3B8H0DMgEeacYJOaC8KPRQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Rational.scala" iconURI="platform:/plugin/org.scala-ide.sdt.core/icons/full/obj16/scu_obj.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;Rational.scala&quot; partName=&quot;Rational.scala&quot; title=&quot;Rational.scala&quot; tooltip=&quot;rational_nuber/src/Rational.scala&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/rational_nuber/src/Rational.scala&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;435&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;Rational.scala&quot; partName=&quot;Rational.scala&quot; title=&quot;Rational.scala&quot; tooltip=&quot;rational_nuber/src/Rational.scala&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/rational_nuber/src/Rational.scala&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;14&quot; selectionOffset=&quot;214&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>scala.tools.eclipse.ScalaSourceFileEditor</tags>
           <tags>removeOnHide</tags>
@@ -124,6 +125,7 @@
       <tags>categoryTag:General</tags>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_vVnK0zMfEeaN5bFKc4LLBg" elementId="org.eclipse.ui.console.ConsoleView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Console" iconURI="platform:/plugin/org.eclipse.ui.console/icons/full/cview16/console_view.png" closeable="true">
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
       <tags>active</tags>
@@ -150,7 +152,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_umjsYDMfEeaN5bFKc4LLBg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_b7wksDMgEeacYJOaC8KPRQ" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_tl0oJzMfEeaN5bFKc4LLBg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_EkwKAD79Eeavb4GxaDGvJg" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_tl0oJzMfEeaN5bFKc4LLBg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_umjsYTMfEeaN5bFKc4LLBg" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -168,7 +170,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_umkTcDMfEeaN5bFKc4LLBg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_b72rUTMgEeacYJOaC8KPRQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_tl0BPDMfEeaN5bFKc4LLBg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_ElBPwD79Eeavb4GxaDGvJg" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_tl0BPDMfEeaN5bFKc4LLBg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_umkTcTMfEeaN5bFKc4LLBg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>

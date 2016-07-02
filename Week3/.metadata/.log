@@ -1,0 +1,1221 @@
+!SESSION 2016-07-01 12:16:18.252 -----------------------------------------------
+eclipse.buildId=4.4.1-vfinal-2016-05-04T11:16:00Z-Typesafe
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+This is a continuation of log file C:\Users\jie\Desktop\ScalaCoursera\Week3\.metadata\.bak_0.log
+Created Time: 2016-07-02 09:09:17.092
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:09:17.095
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:09:19.012
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:09:19.623
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:09:19.795
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:09:19.997
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:09:20.157
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:09:20.315
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:09:20.474
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:09:20.609
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:09:20.925
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:09:21.655
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:09:21.873
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:09:22.685
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:09:22.816
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:09:23.016
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:09:23.753
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:09:23.756
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:09:24.746
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:09:54.938
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:09:54.941
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:09:55.013
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:09:55.016
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:09:55.114
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:04.476
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:05.487
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:05.519
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:13.295
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:14.058
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:14.060
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:14.160
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:14.298
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:14.433
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:15.054
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:15.198
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:15.319
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:15.438
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:15.928
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:16.037
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:16.238
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:16.370
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:16.594
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:17.459
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:17.697
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:17.760
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:17.882
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:18.045
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:18.338
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:18.485
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:19.085
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:19.826
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:19.896
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:20.357
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:20.482
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:20.620
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:20.960
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:21.420
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:21.682
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:21.937
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:22.093
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:22.246
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:22.870
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:23.073
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:23.152
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:23.292
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:24.119
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:35.241
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:36.156
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:36.194
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:36.323
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:36.551
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:36.787
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:37.034
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:37.133
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:37.320
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:37.613
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:37.849
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:37.971
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:38.098
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:38.686
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:39.220
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:39.313
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:39.476
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:39.749
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:39.998
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:40.111
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:40.717
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:55.759
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:58.691
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:10:58.722
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:01.227
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:01.385
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:01.525
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:01.646
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:01.776
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:01.986
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:02.796
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:22.842
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:32.163
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:32.878
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:33.029
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:33.180
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:33.319
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:33.439
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:33.838
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:34.064
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:34.275
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:34.390
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:34.547
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:34.821
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:34.955
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:35.152
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:35.305
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:35.447
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:35.582
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:35.827
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:36.258
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:36.385
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:36.473
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:36.644
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:36.796
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:37.077
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:37.316
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:37.381
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:37.516
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:37.874
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:38.270
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:38.485
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:38.714
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:38.865
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:39.329
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:39.455
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:39.668
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:39.933
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:40.124
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:40.252
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:40.409
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:40.717
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:40.910
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:41.010
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:41.136
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:11:41.917
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:08.463
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:15.071
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:15.203
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:15.724
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:15.867
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:16.133
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:16.265
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:16.549
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:16.920
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:17.438
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:17.704
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:17.902
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:18.030
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:18.237
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:18.674
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:18.892
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:19.023
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:19.108
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:19.342
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:19.836
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:20.227
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:21.003
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:30.040
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:33.627
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:35.228
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:35.352
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:36.164
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:37.058
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:37.190
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:37.772
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:37.807
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:38.198
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:40.287
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:40.290
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:40.293
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:12:40.296
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:02.740
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:22.263
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:23.141
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:23.146
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:23.152
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:24.190
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:24.310
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:24.310
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:24.745
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:25.128
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:25.527
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:25.531
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:26.331
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:26.831
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:27.131
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:27.256
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:28.412
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:28.412
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:28.465
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:28.597
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:28.725
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:28.834
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:29.498
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:29.613
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:29.632
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.415
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.431
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.778
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.794
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.794
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.794
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.794
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.810
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.810
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.810
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.825
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.829
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.833
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.836
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.836
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.836
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.836
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.852
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.852
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.852
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.852
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.852
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.867
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.867
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.867
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.867
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.883
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.883
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.883
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.883
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.899
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.899
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.899
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.899
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.899
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.914
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.914
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.914
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.914
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.932
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.936
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.936
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.936
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.936
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.936
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.952
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.952
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.952
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.952
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.967
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.967
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.967
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.967
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.983
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.983
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.983
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.983
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.983
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.999
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.999
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.999
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:30.999
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.014
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.014
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.014
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.014
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.031
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.035
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.039
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.042
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.046
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.050
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.054
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.057
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.061
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.065
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.066
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.066
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.066
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.066
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.082
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.082
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.082
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.082
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.097
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.097
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.097
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.097
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.097
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.113
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.113
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.113
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.113
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.130
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.134
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.138
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.141
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.145
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.149
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.152
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.157
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.161
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.165
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.168
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.172
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.175
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.179
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.183
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.187
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.190
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.194
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.198
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.201
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.205
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.209
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.213
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.216
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.220
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.223
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.227
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.230
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.234
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.238
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.241
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.245
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.249
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.252
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.256
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.259
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.263
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.263
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.263
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.263
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.263
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.278
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.278
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.278
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.278
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.294
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.294
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.294
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.294
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.310
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.310
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.310
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.310
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.326
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.330
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.334
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.338
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.341
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.345
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.349
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.350
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.350
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.350
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.350
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.365
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.365
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.365
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.365
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.381
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.381
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.381
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.381
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.381
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.397
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.397
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.397
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.397
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.412
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.412
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.412
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.412
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.428
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.432
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:31.810
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:34.343
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:34.871
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:41.059
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:41.936
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:42.666
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:42.669
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:16:42.672
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:17:15.180
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:17:30.889
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:17:30.889
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:17:30.905
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:17:31.696
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:17:31.728
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:17:33.027
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:17:33.059
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:17:34.976
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:17:35.007
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:17:37.669
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:17:40.044
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:17:40.075
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:17:45.665
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:17:46.205
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:17:46.376
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:17:47.237
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-07-02 09:17:55.774
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.

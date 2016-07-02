@@ -20,3 +20,20 @@
 2016-06-15 13:48:51,776  WARN [Worker-13] - ScalaProject - Project rational_nuber runs on platform default installation.
 2016-06-15 13:49:17,791  WARN [Worker-11] - ScalaProject - Project rational_nuber has platform default sourceLevel.
 2016-06-15 13:49:17,791  WARN [Worker-11] - ScalaProject - Project rational_nuber runs on platform default installation.
+2016-06-30 15:59:10,252  WARN [main] - ScalaProject - Project rational_nuber has platform default sourceLevel.
+2016-06-30 15:59:10,264  WARN [main] - ScalaProject - Project rational_nuber runs on platform default installation.
+2016-06-30 15:59:10,304  WARN [main] - ScalaProject - Project rational_nuber has platform default sourceLevel.
+2016-06-30 15:59:10,304  WARN [main] - ScalaProject - Project rational_nuber runs on platform default installation.
+2016-06-30 16:03:23,614 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-06-30 16:03:23,618 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-06-30 16:03:23,622 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-06-30 16:03:36,734  WARN [Worker-3] - ScalaProject - Project rational_nuber has platform default sourceLevel.
+2016-06-30 16:03:36,734  WARN [Worker-3] - ScalaProject - Project rational_nuber runs on platform default installation.
+2016-06-30 16:03:36,862  WARN [Worker-3] - ScalaProject - Project rational_nuber has platform default sourceLevel.
+2016-06-30 16:03:36,862  WARN [Worker-3] - ScalaProject - Project rational_nuber runs on platform default installation.
+2016-06-30 17:15:52,057  WARN [Worker-19] - ScalaProject - Project rational_nuber has platform default sourceLevel.
+2016-06-30 17:15:52,057  WARN [Worker-19] - ScalaProject - Project rational_nuber runs on platform default installation.
+2016-06-30 17:16:33,349  WARN [Worker-18] - ScalaProject - Project rational_nuber has platform default sourceLevel.
+2016-06-30 17:16:33,349  WARN [Worker-18] - ScalaProject - Project rational_nuber runs on platform default installation.
+2016-06-30 17:22:29,149  WARN [Worker-30] - ScalaProject - Project rational_nuber has platform default sourceLevel.
+2016-06-30 17:22:29,149  WARN [Worker-30] - ScalaProject - Project rational_nuber runs on platform default installation.
