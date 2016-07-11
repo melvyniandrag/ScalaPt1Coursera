@@ -111,7 +111,7 @@ object Huffman {
    */
     def singleton(trees: List[CodeTree]): Boolean = trees match{
       case Nil => false
-      case x :: y :: z => false
+      case x :: y :: z => false // He gave us a great hint at this line of code in the lesson! 
       case x :: y => true
     }
   
@@ -127,7 +127,10 @@ object Huffman {
    * If `trees` is a list of less than two elements, that list should be returned
    * unchanged.
    */
-    //def combine(trees: List[CodeTree]): List[CodeTree] = ???
+    def combine(trees: List[CodeTree]): List[CodeTree] = match trees{
+      case x :: y :: z => 
+      case x => trees
+    }
   
   /**
    * This function will be called in the following way:
