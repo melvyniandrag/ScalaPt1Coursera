@@ -7,4 +7,20 @@
 [0m[[0minfo[0m] [0m[32m- singleton test for different lists of trees[0m[0m
 [0m[[0minfo[0m] [0m[32m- combine of some leaf list[0m[0m
 [0m[[0minfo[0m] [0m[32m- test until on leaflist[0m[0m
+[0m[[0minfo[0m] [0m[32m- decode test[0m[0m
+[0m[[0minfo[0m] [0m[31m- make tree, encode, decode text *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  java.util.NoSuchElementException: head of empty list[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.immutable.Nil$.head(List.scala:420)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.immutable.Nil$.head(List.scala:417)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at patmat.Huffman$.decodeAcc(Huffman.scala:200)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at patmat.Huffman$.decode(Huffman.scala:210)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at patmat.HuffmanSuite$$anonfun$10.apply$mcV$sp(HuffmanSuite.scala:97)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at patmat.HuffmanSuite$$anonfun$10.apply(HuffmanSuite.scala:94)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at patmat.HuffmanSuite$$anonfun$10.apply(HuffmanSuite.scala:94)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- decode and encode a short text should be identity *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  List('a', 'b') did not equal List('a', 'b', 'd') (HuffmanSuite.scala:102)[0m[0m
 [0m[[0minfo[0m] [0m[32m- decode and encode a very short text should be identity[0m[0m

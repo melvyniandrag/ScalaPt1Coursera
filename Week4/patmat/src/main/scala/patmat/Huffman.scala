@@ -196,7 +196,7 @@ object Huffman {
    */
 
    def decodeAcc(tree: CodeTree, subTree: CodeTree, bitList: List[Bit], accList: List[Char]): List[Char] = subTree match {
-     case l: Leaf => if (bitList == Nil) chars(l):::accList else decodeAcc(tree, tree, bitList, chars(l):::accList)
+     case l: Leaf => if (bitList == Nil) accList:::chars(l) else decodeAcc(tree, tree, bitList, accList:::chars(l))
      case f: Fork => if (bitList.head == 0) {
          decodeAcc(tree, left(subTree), bitList.tail, accList)
          }else if (bitList.head == 1){
@@ -244,7 +244,7 @@ object Huffman {
    }
    def bitAccumulator(tree: CodeTree, text: List[Char], accList: List[Bit]): List[Bit] = text match{
      case Nil => accList
-     case char::chars => bitAccumulator(tree, chars, charEncoder(char, tree, Nil):::accList)
+     case char::chars => bitAccumulator(tree, chars, accList:::charEncoder(char, tree, Nil))
    }
    def encode(tree: CodeTree)(text: List[Char]): List[Bit] = {
      bitAccumulator(tree, text, Nil)
