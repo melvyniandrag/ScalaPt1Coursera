@@ -94,12 +94,26 @@ object Huffman {
    * head of the list should have the smallest weight), where the weight
    * of a leaf is the frequency of the character.
    */
-    //def makeOrderedLeafList(freqs: List[(Char, Int)]): List[Leaf] = ???
-  
+    def makeOrderedLeafList(freqs: List[(Char, Int)]): List[Leaf] = {
+      def updateAccList(pair: (Char, Int), accList: List[Leaf]): List[Leaf] = accList match{
+        case Nil => List(Leaf(pair._1, pair._2))
+        case y :: ys => if  (pair._2 <= weight(y)) Leaf(pair._1, pair._2) :: accList else y :: updateAccList(pair, ys)
+      }
+      def orderedAcc(freqList: List[(Char, Int)], accList: List[Leaf]): List[Leaf] = freqList match{
+        case Nil => accList
+        case  y :: ys => orderedAcc(ys, updateAccList(y, accList))
+      }
+      orderedAcc(freqs, Nil)
+    }
+
   /**
    * Checks whether the list `trees` contains only one single code tree.
    */
-    //def singleton(trees: List[CodeTree]): Boolean = ???
+    def singleton(trees: List[CodeTree]): Boolean = trees match{
+      case Nil => false
+      case x :: y :: z => false
+      case x :: y => true
+    }
   
   /**
    * The parameter `trees` of this function is a list of code trees ordered
