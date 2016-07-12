@@ -237,8 +237,8 @@ object Huffman {
    */
    def charEncoder(char: Char, tree: CodeTree, encoderAcc: List[Bit]): List [Bit] = tree match{
     case l: Leaf => encoderAcc
-    case f: Fork => if (chars(left(f)).contains(char)) charEncoder(char, left(f), 0::encoderAcc)
-                    else if (chars(right(f)).contains(char)) charEncoder(char, right(f), 1::encoderAcc)
+    case f: Fork => if (chars(left(f)).contains(char)) charEncoder(char, left(f), encoderAcc:::List(0))
+                    else if (chars(right(f)).contains(char)) charEncoder(char, right(f), encoderAcc:::List(1))
                     else Nil
     
    }
@@ -271,10 +271,10 @@ object Huffman {
    * a valid code tree that can be represented as a code table. Using the code tables of the
    * sub-trees, think of how to build the code table for the entire tree.
    */
-   
+/*
     def convert(tree: CodeTree): CodeTable = tree match{
       case l: Leaf => List((chars(l).head, charEncoder(chars(l).head, tree, Nil)))
-      case f: Fork => mergeCodeTables(convert(left(tree)), convert(right(tree)))
+      case f: Fork => mergeCodeTables(('_', 0)::convert(left(tree)), ('_', 1)::convert(right(tree)))
     }
   
   /**
@@ -282,10 +282,12 @@ object Huffman {
    * use it in the `convert` method above, this merge method might also do some transformations
    * on the two parameter code tables.
    */
+   
    def mergeCodeTables(a: CodeTable, b: CodeTable): CodeTable = {
+     // we can remove all of the elemements that are '_'
      a ::: b
    }
-  
+  */
   /**
    * This function encodes `text` according to the code tree `tree`.
    *

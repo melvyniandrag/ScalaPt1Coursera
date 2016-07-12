@@ -92,14 +92,14 @@ class HuffmanSuite extends FunSuite {
   }
   
   test("make tree, encode, decode text"){
-    val huffmanTree = createCodeTree("lov".toList)
-    val testString = "lov".toList
+    val huffmanTree = createCodeTree("thequickbrownfoxjumpsoverthelazydog".toList)
+    val testString = "iloveyou".toList
     assert(decode(huffmanTree, encode(huffmanTree)(testString)) == testString)
   }
   
   test("decode and encode a short text should be identity") {
     new TestTrees {
-      assert(decode(t1, encode(t1)("abd".toList)) === "abd".toList)
+      assert(decode(t2, encode(t2)("abd".toList)) === "abd".toList)
     }
   }
   
@@ -109,4 +109,5 @@ class HuffmanSuite extends FunSuite {
     }
   }
   
+
 }
