@@ -302,7 +302,7 @@ object Huffman {
    */
      def quickEncoderAcc(table: CodeTable, text: List[Char], bitAccList: List[Bit]): List[Bit] = text match{
        case Nil => bitAccList
-       case c::chars => quickEncoderAcc(table, chars, codeBits(table)(c):::bitAccList)
+       case c::chars => quickEncoderAcc(table, chars, bitAccList:::codeBits(table)(c))
      }
     def quickEncode(tree: CodeTree)(text: List[Char]): List[Bit] = {
       val codeTable = convert(tree)
