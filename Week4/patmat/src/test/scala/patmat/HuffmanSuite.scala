@@ -108,6 +108,10 @@ class HuffmanSuite extends FunSuite {
       assert(decode(t1, encode(t1)("abba".toList)) === "abba".toList)
     }
   }
-  
+  test("test convert function"){
+    new TestTrees{
+      assert(convert(t2) === List(('a', List(0, 0)), ('b', List(0, 1)), ('d', List(1))))
+    }
+  }
 
 }

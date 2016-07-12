@@ -271,10 +271,10 @@ object Huffman {
    * a valid code tree that can be represented as a code table. Using the code tables of the
    * sub-trees, think of how to build the code table for the entire tree.
    */
-/*
+    val placeHolder = 'x'
     def convert(tree: CodeTree): CodeTable = tree match{
-      case l: Leaf => List((chars(l).head, charEncoder(chars(l).head, tree, Nil)))
-      case f: Fork => mergeCodeTables(('_', 0)::convert(left(tree)), ('_', 1)::convert(right(tree)))
+      case l: Leaf => List((chars(l).head, Nil))
+      case f: Fork => mergeCodeTables((placeHolder, List(0))::convert(left(tree)), (placeHolder, List(1))::convert(right(tree)))
     }
   
   /**
@@ -284,10 +284,16 @@ object Huffman {
    */
    
    def mergeCodeTables(a: CodeTable, b: CodeTable): CodeTable = {
-     // we can remove all of the elemements that are '_'
-     a ::: b
+     transformCodeTable(a) ::: transformCodeTable(b)
    }
-  */
+   
+   def transformCodeTable(table: CodeTable): CodeTable = table match{
+     case Nil => throw new IllegalArgumentException("empty table passed to transformCodeTable.")
+     case x::Nil => List(x)
+     case x::y::Nil => List((y._1, x._2.head::y._2))
+     case x::y::z => transformCodeTable(x::List(y)) ::: transformCodeTable(x::z)
+   }
+   
   /**
    * This function encodes `text` according to the code tree `tree`.
    *

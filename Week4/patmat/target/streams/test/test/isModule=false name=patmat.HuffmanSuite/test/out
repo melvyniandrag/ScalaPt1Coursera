@@ -11,3 +11,4 @@
 [0m[[0minfo[0m] [0m[32m- make tree, encode, decode text[0m[0m
 [0m[[0minfo[0m] [0m[32m- decode and encode a short text should be identity[0m[0m
 [0m[[0minfo[0m] [0m[32m- decode and encode a very short text should be identity[0m[0m
+[0m[[0minfo[0m] [0m[32m- test convert function[0m[0m
