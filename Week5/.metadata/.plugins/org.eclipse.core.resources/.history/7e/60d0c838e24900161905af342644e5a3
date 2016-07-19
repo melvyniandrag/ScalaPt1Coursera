@@ -1,0 +1,44 @@
+import math.Ordering
+
+object ListExperiments {
+  val x = (1, 3, 2)
+  println(Ordering[Int].lt(x._1, x._2))
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  val x = List(1, 2, 3, 4, 5)
+  println("x contains : " + x.toString)
+  println("Length of x: " + x.length.toString)
+  println("The last of x is: " + x.last.toString)
+  println("The init of x is: " + x.init.toString)
+  val xt4 = x take 4
+  println("x take 4 gives: " + xt4.toString)
+  val xd4 = x drop 4
+  println("x drop 4 gives: " + xd4.toString)
+  println("x(3) is: " + x(3).toString)
+
+  val my_int = 5
+  val my_float = 5.0
+  println(my_int /  2)
+  println(my_float / 2)
+}   
+
+def merge(xs: List[Int], ys: List[Int]): List[Int] = xs match{
+  case Nil => ys
+  case x::xs1 => ys match{
+    case Nil => xs
+    case y::ys1 =>
+      if (x < y) x::merge(xs1, ys)
+      else y::merge(xs, ys1)
+  }
+}

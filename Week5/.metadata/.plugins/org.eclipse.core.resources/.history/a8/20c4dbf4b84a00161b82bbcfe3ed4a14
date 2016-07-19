@@ -1,0 +1,61 @@
+import math.Ordering
+
+object ListExperiments {
+  val i = (1, 3)
+  val s = ('d', 'b') 
+  println(Ordering[Int].lt(i._1, i._2))
+  println(Ordering[Char].lt(s._1, s._2))
+  
+  def sortPair[T, S](t: (T, T), s: (S, S), ord1: Ordering[T], ord2: Ordering[S]): Boolean = {
+    ord1.lt(t._1, t._2) || ord2.lt(s._1, s._2)
+  }
+  
+  sortPair((1, 2), (1.3, 0.8), Ordering[Int], Ordering[Double])
+  
+  
+  
+  
+  
+  val x = List(1, 2, 3, 4, 5)
+  println("x contains : " + x.toString)
+  println("Length of x: " + x.length.toString)
+  println("The last of x is: " + x.last.toString)
+  println("The init of x is: " + x.init.toString)
+  val xt4 = x take 4
+  println("x take 4 gives: " + xt4.toString)
+  val xd4 = x drop 4
+  println("x drop 4 gives: " + xd4.toString)
+  println("x(3) is: " + x(3).toString)
+
+  val my_int = 5
+  val my_float = 5.0
+  println(my_int /  2)
+  println(my_float / 2)
+  
+  def squareList(xs: List[Int]): List[Int] = xs match{
+    case Nil => Nil
+    case y::ys => y*y :: squareList(ys)
+  }
+  squareList(List(1, 2, 3))
+
+  def squareListMap(xs: List[Int]): List[Int] = {
+    xs map(x => x*x)
+  }
+  squareListMap(List(1, 2, 3))
+  
+  def posElems(xs: List[Int]): List[Int] = xs match{
+    case Nil => Nil
+    case y::ys => if (y > 0) y::posElems(ys) else posElems(ys)
+  }
+  posElems(List(-2, 2, -4, 4))
+}   
+
+def merge(xs: List[Int], ys: List[Int]): List[Int] = xs match{
+  case Nil => ys
+  case x::xs1 => ys match{
+    case Nil => xs
+    case y::ys1 =>
+      if (x < y) x::merge(xs1, ys)
+      else y::merge(xs, ys1)
+  }
+}

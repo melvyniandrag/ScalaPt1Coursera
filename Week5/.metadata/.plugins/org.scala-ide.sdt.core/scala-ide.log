@@ -1,0 +1,440 @@
+2016-07-14 08:28:31,007  WARN [ModalContext] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 08:28:31,018  WARN [ModalContext] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 08:28:31,444  WARN [Worker-3] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 08:28:31,449  WARN [Worker-3] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 08:30:05,318  WARN [main] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 08:30:05,318  WARN [main] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 08:30:06,326 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-14 08:30:06,345 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-14 08:30:06,352 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-14 08:30:06,357 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-14 08:30:06,362 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-14 08:30:06,467 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-14 08:30:06,469 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-14 08:30:06,936 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-14 08:30:07,185 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-14 08:30:07,347 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-14 08:30:07,477 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-14 08:30:07,538 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-14 08:30:07,751 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-14 08:30:07,956 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-14 08:30:08,011 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-14 08:30:08,129 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-14 08:30:08,500 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-14 08:30:09,802  WARN [Worker-4] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 08:30:09,802  WARN [Worker-4] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 08:30:10,209  WARN [Java indexing] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 08:30:10,209  WARN [Java indexing] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 08:30:11,846  WARN [Worker-4] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 08:30:11,847  WARN [Worker-4] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 08:30:17,506 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - An error occurred while trying to create a file.
+org.eclipse.core.internal.resources.ResourceException: Resource '/ListExperiments/src/ListExperiments.scala' already exists.
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:320)
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:307)
+	at org.eclipse.core.internal.resources.File.create(File.java:112)
+	at org.eclipse.core.internal.resources.File.create(File.java:188)
+	at org.scalaide.util.eclipse.FileUtils$$anonfun$createFile$1.apply$mcV$sp(FileUtils.scala:93)
+	at org.scalaide.util.eclipse.FileUtils$$anonfun$createFile$1.apply(FileUtils.scala:84)
+	at org.scalaide.util.eclipse.FileUtils$$anonfun$createFile$1.apply(FileUtils.scala:84)
+	at scala.util.Try$.apply(Try.scala:192)
+	at org.scalaide.util.eclipse.FileUtils$.createFile(FileUtils.scala:84)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:284)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:283)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$class.okPressed(NewFileWizard.scala:283)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter$$anon$1.okPressed(NewFileWizardAdapter.scala:28)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter.performFinish(NewFileWizardAdapter.scala:55)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:853)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:438)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:619)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4454)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1388)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3799)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3409)
+	at org.eclipse.ui.internal.dialogs.EventLoopProgressMonitor.runEventLoop(EventLoopProgressMonitor.java:128)
+	at org.eclipse.ui.internal.dialogs.EventLoopProgressMonitor.isCanceled(EventLoopProgressMonitor.java:102)
+	at org.eclipse.core.internal.jobs.ThreadJob.isCanceled(ThreadJob.java:144)
+	at org.eclipse.core.internal.jobs.ThreadJob.waitForRun(ThreadJob.java:233)
+	at org.eclipse.core.internal.jobs.ThreadJob.joinRun(ThreadJob.java:197)
+	at org.eclipse.core.internal.jobs.ImplicitJobs.begin(ImplicitJobs.java:92)
+	at org.eclipse.core.internal.jobs.JobManager.beginRule(JobManager.java:290)
+	at org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:118)
+	at org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2251)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:356)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:465)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$class.openFileInSrcDir$1(NewFileWizard.scala:364)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$class.org$scalaide$ui$internal$wizards$NewFileWizard$$openEditor(NewFileWizard.scala:375)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:287)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:283)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$class.okPressed(NewFileWizard.scala:283)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter$$anon$1.okPressed(NewFileWizardAdapter.scala:28)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter.performFinish(NewFileWizardAdapter.scala:55)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:853)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:438)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:619)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4454)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1388)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3799)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3409)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:832)
+	at org.eclipse.jface.window.Window.open(Window.java:808)
+	at org.eclipse.ui.internal.actions.NewWizardShortcutAction.run(NewWizardShortcutAction.java:136)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:519)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:420)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4454)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1388)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3799)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3409)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1438)
+2016-07-14 08:30:28,232  WARN [Worker-4] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 08:30:28,233  WARN [Worker-4] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 08:30:38,956  WARN [Worker-1] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 08:30:38,956  WARN [Worker-1] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 08:31:48,870  WARN [Worker-1] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 08:31:48,870  WARN [Worker-1] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 08:32:19,035  WARN [Worker-2] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 08:32:19,035  WARN [Worker-2] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 08:32:50,736  WARN [Worker-4] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 08:32:50,736  WARN [Worker-4] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 08:33:04,529  WARN [Worker-0] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 08:33:04,530  WARN [Worker-0] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 08:36:38,505  WARN [Worker-1] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 08:36:38,506  WARN [Worker-1] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 10:31:11,233  WARN [Worker-14] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 10:31:11,250  WARN [Worker-14] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 10:34:20,390  WARN [Worker-8] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 10:34:20,391  WARN [Worker-8] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 12:42:33,947  WARN [Worker-22] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 12:42:34,025  WARN [Worker-22] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 12:42:55,743  WARN [Worker-24] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 12:42:55,743  WARN [Worker-24] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 12:43:22,312  WARN [Worker-24] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 12:43:22,313  WARN [Worker-24] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 12:43:32,571 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-14 12:43:32,572 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-14 12:43:33,895  WARN [Worker-21] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 12:43:33,895  WARN [Worker-21] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 12:44:24,703  WARN [Worker-22] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 12:44:24,703  WARN [Worker-22] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 12:44:45,076  WARN [Worker-25] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 12:44:45,076  WARN [Worker-25] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 12:44:58,900  WARN [Worker-25] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 12:44:58,900  WARN [Worker-25] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 12:45:58,609 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-14 12:45:58,610 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-14 12:46:00,840  WARN [Worker-22] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 12:46:00,841  WARN [Worker-22] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 12:46:07,085  WARN [Worker-22] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 12:46:07,085  WARN [Worker-22] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 12:49:50,722  WARN [Worker-22] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 12:49:50,723  WARN [Worker-22] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 12:50:18,545  WARN [Worker-29] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 12:50:18,545  WARN [Worker-29] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 14:18:37,898  WARN [Worker-37] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 14:18:37,898  WARN [Worker-37] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 14:18:48,268  WARN [Worker-37] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 14:18:48,268  WARN [Worker-37] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 14:18:59,071  WARN [Worker-38] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 14:18:59,071  WARN [Worker-38] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-14 14:19:36,111  WARN [Worker-38] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-14 14:19:36,112  WARN [Worker-38] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-15 14:10:27,596  WARN [main] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-15 14:10:27,617  WARN [main] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-15 14:10:27,659  WARN [main] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-15 14:10:27,659  WARN [main] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-15 14:14:35,885  WARN [Worker-0] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-15 14:14:35,906  WARN [Worker-0] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-15 14:14:36,100  WARN [Worker-0] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-15 14:14:36,100  WARN [Worker-0] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-15 14:17:19,959  WARN [Worker-8] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-15 14:17:19,960  WARN [Worker-8] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-15 14:17:36,830  WARN [Worker-6] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-15 14:17:36,830  WARN [Worker-6] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-15 14:17:49,057  WARN [Worker-5] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-15 14:17:49,058  WARN [Worker-5] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-15 14:17:58,567  WARN [Worker-10] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-15 14:17:58,568  WARN [Worker-10] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-15 14:17:59,381 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-15 14:17:59,381 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-15 14:17:59,382 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-15 14:18:00,612  WARN [Worker-5] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-15 14:18:00,613  WARN [Worker-5] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-15 14:20:30,672  WARN [Worker-11] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-15 14:20:30,673  WARN [Worker-11] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-15 14:20:59,750  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-07-15 14:21:32,537  WARN [Worker-5] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-15 14:21:32,537  WARN [Worker-5] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-15 14:21:49,876  WARN [Worker-10] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-15 14:21:49,876  WARN [Worker-10] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-15 14:21:53,918 ERROR [ForkJoinPool-2-worker-5] - EclipseRepl - error during command processing
+java.lang.AssertionError: assertion failed: null
+	at scala.reflect.internal.SymbolTable.phase_$eq(SymbolTable.scala:192)
+	at scala.reflect.internal.SymbolTable.pushPhase(SymbolTable.scala:198)
+	at scala.reflect.internal.SymbolTable.enteringPhase(SymbolTable.scala:234)
+	at scala.tools.nsc.transform.SpecializeTypes.specializedTypeVars(SpecializeTypes.scala:435)
+	at scala.tools.nsc.transform.SpecializeTypes.scala$tools$nsc$transform$SpecializeTypes$$needsSpecialization(SpecializeTypes.scala:413)
+	at scala.tools.nsc.transform.SpecializeTypes$$anonfun$scala$tools$nsc$transform$SpecializeTypes$$specializedClass$1$2.apply(SpecializeTypes.scala:672)
+	at scala.tools.nsc.transform.SpecializeTypes$$anonfun$scala$tools$nsc$transform$SpecializeTypes$$specializedClass$1$2.apply(SpecializeTypes.scala:672)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:733)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:732)
+	at scala.tools.nsc.transform.SpecializeTypes.scala$tools$nsc$transform$SpecializeTypes$$specializedClass$1(SpecializeTypes.scala:672)
+	at scala.tools.nsc.transform.SpecializeTypes.specializeClass(SpecializeTypes.scala:802)
+	at scala.tools.nsc.transform.SpecializeTypes.transformInfo(SpecializeTypes.scala:1196)
+	at scala.tools.nsc.transform.InfoTransform$Phase$$anon$1.transform(InfoTransform.scala:38)
+	at scala.reflect.internal.Symbols$Symbol.rawInfo(Symbols.scala:1604)
+	at scala.reflect.internal.Symbols$Symbol.info(Symbols.scala:1524)
+	at scala.reflect.internal.Types$TypeRef.thisInfo(Types.scala:2194)
+	at scala.reflect.internal.Types$TypeRef.baseClasses(Types.scala:2199)
+	at scala.reflect.internal.Types$class.computeBaseClasses(Types.scala:1439)
+	at scala.reflect.internal.SymbolTable.computeBaseClasses(SymbolTable.scala:16)
+	at scala.reflect.internal.Types$$anonfun$defineBaseClassesOfCompoundType$1.apply(Types.scala:1560)
+	at scala.reflect.internal.Types$$anonfun$defineBaseClassesOfCompoundType$1.apply(Types.scala:1560)
+	at scala.reflect.internal.Types$CompoundType.memo(Types.scala:1393)
+	at scala.reflect.internal.Types$class.defineBaseClassesOfCompoundType(Types.scala:1560)
+	at scala.reflect.internal.Types$class.define$1(Types.scala:1527)
+	at scala.reflect.internal.Types$class.defineBaseClassesOfCompoundType(Types.scala:1528)
+	at scala.reflect.internal.SymbolTable.defineBaseClassesOfCompoundType(SymbolTable.scala:16)
+	at scala.reflect.internal.Types$CompoundType.baseClasses(Types.scala:1370)
+	at scala.reflect.internal.Types$$anonfun$defineBaseClassesOfCompoundType$2.apply(Types.scala:1560)
+	at scala.reflect.internal.Types$$anonfun$defineBaseClassesOfCompoundType$2.apply(Types.scala:1560)
+	at scala.reflect.internal.Types$CompoundType.memo(Types.scala:1393)
+	at scala.reflect.internal.Types$class.defineBaseClassesOfCompoundType(Types.scala:1560)
+	at scala.reflect.internal.Types$class.define$1(Types.scala:1527)
+	at scala.reflect.internal.Types$class.defineBaseClassesOfCompoundType(Types.scala:1528)
+	at scala.reflect.internal.SymbolTable.defineBaseClassesOfCompoundType(SymbolTable.scala:16)
+	at scala.reflect.internal.Types$CompoundType.baseClasses(Types.scala:1370)
+	at scala.reflect.internal.Types$PolyType.baseClasses(Types.scala:2509)
+	at scala.reflect.internal.Types$TypeRef.baseClasses(Types.scala:2199)
+	at scala.reflect.internal.Types$class.computeBaseClasses(Types.scala:1439)
+	at scala.reflect.internal.SymbolTable.computeBaseClasses(SymbolTable.scala:16)
+	at scala.reflect.internal.Types$$anonfun$defineBaseClassesOfCompoundType$1.apply(Types.scala:1560)
+	at scala.reflect.internal.Types$$anonfun$defineBaseClassesOfCompoundType$1.apply(Types.scala:1560)
+	at scala.reflect.internal.Types$CompoundType.memo(Types.scala:1393)
+	at scala.reflect.internal.Types$class.defineBaseClassesOfCompoundType(Types.scala:1560)
+	at scala.reflect.internal.Types$class.define$1(Types.scala:1527)
+	at scala.reflect.internal.Types$class.defineBaseClassesOfCompoundType(Types.scala:1528)
+	at scala.reflect.internal.SymbolTable.defineBaseClassesOfCompoundType(SymbolTable.scala:16)
+	at scala.reflect.internal.Types$CompoundType.baseClasses(Types.scala:1370)
+	at scala.reflect.internal.Types$$anonfun$defineBaseClassesOfCompoundType$2.apply(Types.scala:1560)
+	at scala.reflect.internal.Types$$anonfun$defineBaseClassesOfCompoundType$2.apply(Types.scala:1560)
+	at scala.reflect.internal.Types$CompoundType.memo(Types.scala:1393)
+	at scala.reflect.internal.Types$class.defineBaseClassesOfCompoundType(Types.scala:1560)
+	at scala.reflect.internal.Types$class.define$1(Types.scala:1527)
+	at scala.reflect.internal.Types$class.defineBaseClassesOfCompoundType(Types.scala:1528)
+	at scala.reflect.internal.SymbolTable.defineBaseClassesOfCompoundType(SymbolTable.scala:16)
+	at scala.reflect.internal.Types$CompoundType.baseClasses(Types.scala:1370)
+	at scala.reflect.internal.Types$PolyType.baseClasses(Types.scala:2509)
+	at scala.reflect.internal.Types$TypeRef.baseClasses(Types.scala:2199)
+	at scala.reflect.internal.Types$class.computeBaseClasses(Types.scala:1439)
+	at scala.reflect.internal.SymbolTable.computeBaseClasses(SymbolTable.scala:16)
+	at scala.reflect.internal.Types$$anonfun$defineBaseClassesOfCompoundType$1.apply(Types.scala:1560)
+	at scala.reflect.internal.Types$$anonfun$defineBaseClassesOfCompoundType$1.apply(Types.scala:1560)
+	at scala.reflect.internal.Types$CompoundType.memo(Types.scala:1393)
+	at scala.reflect.internal.Types$class.defineBaseClassesOfCompoundType(Types.scala:1560)
+	at scala.reflect.internal.Types$class.define$1(Types.scala:1527)
+	at scala.reflect.internal.Types$class.defineBaseClassesOfCompoundType(Types.scala:1528)
+	at scala.reflect.internal.SymbolTable.defineBaseClassesOfCompoundType(SymbolTable.scala:16)
+	at scala.reflect.internal.Types$CompoundType.baseClasses(Types.scala:1370)
+	at scala.reflect.internal.Types$$anonfun$defineBaseClassesOfCompoundType$2.apply(Types.scala:1560)
+	at scala.reflect.internal.Types$$anonfun$defineBaseClassesOfCompoundType$2.apply(Types.scala:1560)
+	at scala.reflect.internal.Types$CompoundType.memo(Types.scala:1393)
+	at scala.reflect.internal.Types$class.defineBaseClassesOfCompoundType(Types.scala:1560)
+	at scala.reflect.internal.Types$class.define$1(Types.scala:1527)
+	at scala.reflect.internal.Types$class.defineBaseClassesOfCompoundType(Types.scala:1528)
+	at scala.reflect.internal.SymbolTable.defineBaseClassesOfCompoundType(SymbolTable.scala:16)
+	at scala.reflect.internal.Types$CompoundType.baseClasses(Types.scala:1370)
+	at scala.reflect.internal.Types$PolyType.baseClasses(Types.scala:2509)
+	at scala.reflect.internal.Types$TypeRef.baseClasses(Types.scala:2199)
+	at scala.reflect.internal.Types$class.computeBaseClasses(Types.scala:1425)
+	at scala.reflect.internal.SymbolTable.computeBaseClasses(SymbolTable.scala:16)
+	at scala.reflect.internal.Types$$anonfun$defineBaseClassesOfCompoundType$1.apply(Types.scala:1560)
+	at scala.reflect.internal.Types$$anonfun$defineBaseClassesOfCompoundType$1.apply(Types.scala:1560)
+	at scala.reflect.internal.Types$CompoundType.memo(Types.scala:1393)
+	at scala.reflect.internal.Types$class.defineBaseClassesOfCompoundType(Types.scala:1560)
+	at scala.reflect.internal.Types$class.define$1(Types.scala:1527)
+	at scala.reflect.internal.Types$class.defineBaseClassesOfCompoundType(Types.scala:1528)
+	at scala.reflect.internal.SymbolTable.defineBaseClassesOfCompoundType(SymbolTable.scala:16)
+	at scala.reflect.internal.Types$CompoundType.baseClasses(Types.scala:1370)
+	at scala.reflect.internal.Types$$anonfun$defineBaseClassesOfCompoundType$2.apply(Types.scala:1560)
+	at scala.reflect.internal.Types$$anonfun$defineBaseClassesOfCompoundType$2.apply(Types.scala:1560)
+	at scala.reflect.internal.Types$CompoundType.memo(Types.scala:1393)
+	at scala.reflect.internal.Types$class.defineBaseClassesOfCompoundType(Types.scala:1560)
+	at scala.reflect.internal.Types$class.define$1(Types.scala:1527)
+	at scala.reflect.internal.Types$class.defineBaseClassesOfCompoundType(Types.scala:1528)
+	at scala.reflect.internal.SymbolTable.defineBaseClassesOfCompoundType(SymbolTable.scala:16)
+	at scala.reflect.internal.Types$CompoundType.baseClasses(Types.scala:1370)
+	at scala.reflect.internal.Types$PolyType.baseClasses(Types.scala:2509)
+	at scala.reflect.internal.Symbols$Symbol.ancestors(Symbols.scala:2129)
+	at scala.reflect.internal.Symbols$Symbol.mixinClasses(Symbols.scala:2125)
+	at scala.tools.nsc.transform.ExplicitOuter.transformInfo(ExplicitOuter.scala:184)
+	at scala.tools.nsc.transform.ExplicitOuter.transformInfo(ExplicitOuter.scala:200)
+	at scala.tools.nsc.transform.InfoTransform$Phase$$anon$1.transform(InfoTransform.scala:38)
+	at scala.reflect.internal.Symbols$Symbol.rawInfo(Symbols.scala:1604)
+	at scala.reflect.internal.Symbols$Symbol.info(Symbols.scala:1524)
+	at scala.reflect.internal.Symbols$Symbol.isDerivedValueClass(Symbols.scala:803)
+	at scala.reflect.internal.transform.Erasure$ErasureMap.apply(Erasure.scala:131)
+	at scala.reflect.internal.transform.Erasure$ErasureMap.apply(Erasure.scala:144)
+	at scala.reflect.internal.transform.Erasure$class.specialErasure(Erasure.scala:209)
+	at scala.tools.nsc.transform.Erasure.specialErasure(Erasure.scala:15)
+	at scala.reflect.internal.transform.Erasure$class.transformInfo(Erasure.scala:366)
+	at scala.tools.nsc.transform.Erasure.transformInfo(Erasure.scala:377)
+	at scala.tools.nsc.transform.InfoTransform$Phase$$anon$1.transform(InfoTransform.scala:38)
+	at scala.reflect.internal.Symbols$Symbol.rawInfo(Symbols.scala:1604)
+	at scala.reflect.internal.Symbols$Symbol.info(Symbols.scala:1524)
+	at scala.tools.nsc.transform.Erasure$ErasureTransformer$$anonfun$checkNoDeclaredDoubleDefs$1$$anonfun$apply$mcV$sp$2.apply(Erasure.scala:785)
+	at scala.tools.nsc.transform.Erasure$ErasureTransformer$$anonfun$checkNoDeclaredDoubleDefs$1$$anonfun$apply$mcV$sp$2.apply(Erasure.scala:785)
+	at scala.reflect.internal.Scopes$Scope.foreach(Scopes.scala:373)
+	at scala.tools.nsc.transform.Erasure$ErasureTransformer$$anonfun$checkNoDeclaredDoubleDefs$1.apply(Erasure.scala:785)
+	at scala.tools.nsc.transform.Erasure$ErasureTransformer$$anonfun$checkNoDeclaredDoubleDefs$1.apply(Erasure.scala:785)
+	at scala.reflect.internal.SymbolTable.enteringPhase(SymbolTable.scala:235)
+	at scala.reflect.internal.SymbolTable.exitingPhase(SymbolTable.scala:256)
+	at scala.tools.nsc.transform.Erasure$ErasureTransformer.checkNoDeclaredDoubleDefs(Erasure.scala:785)
+	at scala.tools.nsc.transform.Erasure$ErasureTransformer.scala$tools$nsc$transform$Erasure$ErasureTransformer$$checkNoDoubleDefs(Erasure.scala:812)
+	at scala.tools.nsc.transform.Erasure$ErasureTransformer$$anon$1.preErase(Erasure.scala:1105)
+	at scala.tools.nsc.transform.Erasure$ErasureTransformer$$anon$1.transform(Erasure.scala:1140)
+	at scala.tools.nsc.transform.Erasure$ErasureTransformer$$anon$1.transform(Erasure.scala:872)
+	at scala.reflect.api.Trees$Transformer.transformTemplate(Trees.scala:2563)
+	at scala.reflect.internal.Trees$$anonfun$itransform$4.apply(Trees.scala:1408)
+	at scala.reflect.internal.Trees$$anonfun$itransform$4.apply(Trees.scala:1407)
+	at scala.reflect.api.Trees$Transformer.atOwner(Trees.scala:2600)
+	at scala.tools.nsc.transform.TypingTransformers$TypingTransformer.atOwner(TypingTransformers.scala:30)
+	at scala.tools.nsc.transform.TypingTransformers$TypingTransformer.atOwner(TypingTransformers.scala:25)
+	at scala.tools.nsc.transform.TypingTransformers$TypingTransformer.atOwner(TypingTransformers.scala:17)
+	at scala.reflect.internal.Trees$class.itransform(Trees.scala:1406)
+	at scala.reflect.internal.SymbolTable.itransform(SymbolTable.scala:16)
+	at scala.reflect.internal.SymbolTable.itransform(SymbolTable.scala:16)
+	at scala.reflect.api.Trees$Transformer.transform(Trees.scala:2555)
+	at scala.tools.nsc.transform.TypingTransformers$TypingTransformer.transform(TypingTransformers.scala:44)
+	at scala.tools.nsc.transform.Erasure$ErasureTransformer$$anon$1.transform(Erasure.scala:1151)
+	at scala.tools.nsc.transform.Erasure$ErasureTransformer$$anon$1.transform(Erasure.scala:872)
+	at scala.reflect.api.Trees$Transformer$$anonfun$transformStats$1.apply(Trees.scala:2589)
+	at scala.reflect.api.Trees$Transformer$$anonfun$transformStats$1.apply(Trees.scala:2587)
+	at scala.collection.immutable.List.loop$1(List.scala:173)
+	at scala.collection.immutable.List.mapConserve(List.scala:189)
+	at scala.reflect.api.Trees$Transformer.transformStats(Trees.scala:2587)
+	at scala.reflect.internal.Trees$$anonfun$itransform$7.apply(Trees.scala:1426)
+	at scala.reflect.internal.Trees$$anonfun$itransform$7.apply(Trees.scala:1426)
+	at scala.reflect.api.Trees$Transformer.atOwner(Trees.scala:2600)
+	at scala.tools.nsc.transform.TypingTransformers$TypingTransformer.atOwner(TypingTransformers.scala:30)
+	at scala.tools.nsc.transform.TypingTransformers$TypingTransformer.atOwner(TypingTransformers.scala:25)
+	at scala.tools.nsc.transform.TypingTransformers$TypingTransformer.atOwner(TypingTransformers.scala:17)
+	at scala.reflect.internal.Trees$class.itransform(Trees.scala:1425)
+	at scala.reflect.internal.SymbolTable.itransform(SymbolTable.scala:16)
+	at scala.reflect.internal.SymbolTable.itransform(SymbolTable.scala:16)
+	at scala.reflect.api.Trees$Transformer.transform(Trees.scala:2555)
+	at scala.tools.nsc.transform.TypingTransformers$TypingTransformer.scala$tools$nsc$transform$TypingTransformers$TypingTransformer$$super$transform(TypingTransformers.scala:40)
+	at scala.tools.nsc.transform.TypingTransformers$TypingTransformer$$anonfun$transform$2.apply(TypingTransformers.scala:42)
+	at scala.tools.nsc.transform.TypingTransformers$TypingTransformer$$anonfun$transform$2.apply(TypingTransformers.scala:42)
+	at scala.reflect.api.Trees$Transformer.atOwner(Trees.scala:2600)
+	at scala.tools.nsc.transform.TypingTransformers$TypingTransformer.atOwner(TypingTransformers.scala:30)
+	at scala.tools.nsc.transform.TypingTransformers$TypingTransformer.transform(TypingTransformers.scala:42)
+	at scala.tools.nsc.transform.Erasure$ErasureTransformer$$anon$1.transform(Erasure.scala:1151)
+	at scala.tools.nsc.transform.Erasure$ErasureTransformer.transform(Erasure.scala:1161)
+	at scala.tools.nsc.transform.Erasure$ErasureTransformer.transform(Erasure.scala:745)
+	at scala.tools.nsc.ast.Trees$Transformer.transformUnit(Trees.scala:147)
+	at scala.tools.nsc.transform.Transform$Phase.apply(Transform.scala:30)
+	at scala.tools.nsc.Global$GlobalPhase$$anonfun$applyPhase$1.apply$mcV$sp(Global.scala:440)
+	at scala.tools.nsc.Global$GlobalPhase.withCurrentUnit(Global.scala:431)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:440)
+	at scala.tools.nsc.Global$GlobalPhase$$anonfun$run$1.apply(Global.scala:398)
+	at scala.tools.nsc.Global$GlobalPhase$$anonfun$run$1.apply(Global.scala:398)
+	at scala.collection.Iterator$class.foreach(Iterator.scala:893)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1336)
+	at scala.tools.nsc.Global$GlobalPhase.run(Global.scala:398)
+	at scala.tools.nsc.Global$Run.compileUnitsInternal(Global.scala:1501)
+	at scala.tools.nsc.Global$Run.compileUnits(Global.scala:1486)
+	at scala.tools.nsc.Global$Run.compileSources(Global.scala:1481)
+	at scala.tools.nsc.interpreter.IMain.compileSourcesKeepingRun(IMain.scala:435)
+	at scala.tools.nsc.interpreter.IMain$ReadEvalPrint.compileAndSaveRun(IMain.scala:855)
+	at scala.tools.nsc.interpreter.IMain$ReadEvalPrint.compile(IMain.scala:813)
+	at scala.tools.nsc.interpreter.IMain$Request$$anonfun$compile$1.apply$mcZ$sp(IMain.scala:1019)
+	at scala.tools.nsc.interpreter.IMain$Request$$anonfun$compile$1.apply(IMain.scala:1019)
+	at scala.tools.nsc.interpreter.IMain$Request$$anonfun$compile$1.apply(IMain.scala:1019)
+	at scala.tools.nsc.interpreter.IMain$$anonfun$withoutWarnings$1.apply(IMain.scala:108)
+	at scala.tools.nsc.interpreter.IMain.beQuietDuring(IMain.scala:214)
+	at scala.tools.nsc.interpreter.IMain.withoutWarnings(IMain.scala:103)
+	at scala.tools.nsc.interpreter.IMain$Request.compile$lzycompute(IMain.scala:1019)
+	at scala.tools.nsc.interpreter.IMain$Request.compile(IMain.scala:997)
+	at scala.tools.nsc.interpreter.IMain.compile(IMain.scala:579)
+	at scala.tools.nsc.interpreter.IMain.interpret(IMain.scala:567)
+	at scala.tools.nsc.interpreter.IMain.interpret(IMain.scala:565)
+	at org.scalaide.core.internal.repl.EclipseRepl$DefaultBuilder$$anon$1.interpret(EclipseRepl.scala:154)
+	at org.scalaide.core.internal.repl.EclipseRepl$$anonfun$org$scalaide$core$internal$repl$EclipseRepl$$doit$1.apply(EclipseRepl.scala:232)
+	at org.scalaide.core.internal.repl.EclipseRepl$$anonfun$org$scalaide$core$internal$repl$EclipseRepl$$doit$1.apply(EclipseRepl.scala:230)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.repl.EclipseRepl.org$scalaide$core$internal$repl$EclipseRepl$$doit(EclipseRepl.scala:230)
+	at org.scalaide.core.internal.repl.EclipseRepl.org$scalaide$core$internal$repl$EclipseRepl$$add(EclipseRepl.scala:211)
+	at org.scalaide.core.internal.repl.EclipseRepl$$anonfun$exec$1.apply(EclipseRepl.scala:176)
+	at org.scalaide.core.internal.repl.EclipseRepl$$anonfun$exec$1.apply(EclipseRepl.scala:176)
+	at org.scalaide.core.internal.repl.EclipseRepl$$anonfun$safely$1$$anonfun$apply$mcV$sp$1$$anonfun$apply$mcV$sp$2.apply$mcV$sp(EclipseRepl.scala:252)
+	at org.scalaide.core.internal.repl.EclipseRepl$$anonfun$safely$1$$anonfun$apply$mcV$sp$1$$anonfun$apply$mcV$sp$2.apply(EclipseRepl.scala:251)
+	at org.scalaide.core.internal.repl.EclipseRepl$$anonfun$safely$1$$anonfun$apply$mcV$sp$1$$anonfun$apply$mcV$sp$2.apply(EclipseRepl.scala:251)
+	at scala.util.DynamicVariable.withValue(DynamicVariable.scala:58)
+	at scala.Console$.withErr(Console.scala:92)
+	at org.scalaide.core.internal.repl.EclipseRepl$$anonfun$safely$1$$anonfun$apply$mcV$sp$1.apply$mcV$sp(EclipseRepl.scala:250)
+	at org.scalaide.core.internal.repl.EclipseRepl$$anonfun$safely$1$$anonfun$apply$mcV$sp$1.apply(EclipseRepl.scala:250)
+	at org.scalaide.core.internal.repl.EclipseRepl$$anonfun$safely$1$$anonfun$apply$mcV$sp$1.apply(EclipseRepl.scala:250)
+	at scala.util.DynamicVariable.withValue(DynamicVariable.scala:58)
+	at scala.Console$.withOut(Console.scala:65)
+	at org.scalaide.core.internal.repl.EclipseRepl$$anonfun$safely$1.apply$mcV$sp(EclipseRepl.scala:250)
+	at org.scalaide.core.internal.repl.EclipseRepl$$anonfun$safely$1.apply(EclipseRepl.scala:248)
+	at org.scalaide.core.internal.repl.EclipseRepl$$anonfun$safely$1.apply(EclipseRepl.scala:248)
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.liftedTree1$1(Future.scala:24)
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:24)
+	at scala.concurrent.impl.ExecutionContextImpl$AdaptedForkJoinTask.exec(ExecutionContextImpl.scala:121)
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)
+2016-07-15 14:33:06,016  WARN [Worker-13] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-15 14:33:06,017  WARN [Worker-13] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-15 14:35:07,674  WARN [Worker-16] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-15 14:35:07,675  WARN [Worker-16] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-15 14:38:14,328  WARN [Worker-11] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-15 14:38:14,492  WARN [Worker-11] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-15 14:41:25,624  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1589
+2016-07-15 14:41:25,625  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1596
+2016-07-15 14:42:11,450  WARN [Worker-23] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-15 14:42:11,451  WARN [Worker-23] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-15 14:46:00,419  WARN [Worker-25] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-15 14:46:00,419  WARN [Worker-25] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-15 14:53:01,072  WARN [Worker-28] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-15 14:53:01,073  WARN [Worker-28] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-15 16:16:23,809  WARN [Worker-37] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-15 16:16:23,932  WARN [Worker-37] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-15 16:17:54,584  WARN [Worker-36] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-15 16:17:54,584  WARN [Worker-36] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-15 20:20:06,360  WARN [Worker-40] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-15 20:20:06,486  WARN [Worker-40] - ScalaProject - Project ListExperiments runs on platform default installation.
+2016-07-16 11:19:59,776  WARN [Worker-52] - ScalaProject - Project ListExperiments has platform default sourceLevel.
+2016-07-16 11:19:59,943  WARN [Worker-52] - ScalaProject - Project ListExperiments runs on platform default installation.

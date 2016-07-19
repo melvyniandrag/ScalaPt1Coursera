@@ -1,0 +1,214 @@
+2016-07-16 11:23:12,180  WARN [ModalContext] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-16 11:23:12,190  WARN [ModalContext] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-16 11:23:14,518  WARN [Worker-4] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-16 11:23:14,519  WARN [Worker-4] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-16 11:23:24,932  WARN [main] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-16 11:23:24,932  WARN [main] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-16 11:23:41,317  WARN [main] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-16 11:23:41,317  WARN [main] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-16 11:23:42,154  WARN [Worker-7] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-16 11:23:42,155  WARN [Worker-7] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-16 11:24:31,886  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-07-16 11:24:46,472  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-07-16 11:24:59,066  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 177
+2016-07-16 11:25:14,923  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 221
+2016-07-16 11:30:44,145  WARN [Worker-10] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-16 11:30:44,145  WARN [Worker-10] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 20:55:01,872  WARN [main] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 20:55:01,979  WARN [main] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 20:55:02,051  WARN [main] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 20:55:02,052  WARN [main] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 20:57:42,641  WARN [Worker-1] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 20:57:42,816  WARN [Worker-1] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 20:57:43,224  WARN [Worker-1] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 20:57:43,224  WARN [Worker-1] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 21:35:12,665  WARN [main] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 21:35:12,696  WARN [main] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 21:35:12,728  WARN [main] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 21:35:12,728  WARN [main] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 21:37:29,295  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-07-18 21:37:29,499  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-07-18 21:39:26,273 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 21:39:41,896 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 21:39:41,897 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 21:39:41,898 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 21:42:13,146 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 21:42:13,153 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 21:42:13,153 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 21:42:13,153 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 21:43:51,605 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 21:43:51,607 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 21:43:57,820  WARN [Worker-8] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 21:43:57,821  WARN [Worker-8] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 21:43:57,909  WARN [Worker-8] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 21:43:57,909  WARN [Worker-8] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 22:11:42,693  WARN [Worker-14] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 22:11:42,694  WARN [Worker-14] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 22:11:46,736  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-07-18 22:11:53,205  WARN [Worker-1] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 22:11:53,206  WARN [Worker-1] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 22:12:58,987  WARN [Worker-10] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 22:12:58,987  WARN [Worker-10] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 22:14:08,241  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 975
+2016-07-18 22:14:08,242  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 975
+2016-07-18 22:14:09,788  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 975
+2016-07-18 22:14:09,789  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 975
+2016-07-18 22:14:44,807  WARN [Worker-12] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 22:14:44,807  WARN [Worker-12] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 22:15:11,452  WARN [Worker-12] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 22:15:11,453  WARN [Worker-12] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 22:16:35,783  WARN [Worker-12] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 22:16:35,783  WARN [Worker-12] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 22:17:18,161  WARN [Worker-14] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 22:17:18,162  WARN [Worker-14] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 22:17:57,909 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 22:17:57,909 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 22:17:57,909 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 22:17:58,729  WARN [Worker-1] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 22:17:58,729  WARN [Worker-1] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 22:46:44,996  WARN [Worker-10] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 22:46:44,996  WARN [Worker-10] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 22:47:59,479  WARN [Worker-19] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 22:47:59,479  WARN [Worker-19] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 22:49:24,683  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1264
+2016-07-18 22:49:24,684  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1269
+2016-07-18 22:50:39,617  WARN [Worker-21] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 22:50:39,617  WARN [Worker-21] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 22:51:05,416  WARN [Worker-10] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 22:51:05,417  WARN [Worker-10] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 22:53:52,285  WARN [Worker-10] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 22:53:52,285  WARN [Worker-10] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 22:54:25,058  WARN [Worker-17] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 22:54:25,058  WARN [Worker-17] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 22:55:53,332  WARN [Worker-22] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 22:55:53,333  WARN [Worker-22] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 22:56:27,003  WARN [Worker-10] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 22:56:27,003  WARN [Worker-10] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 22:57:10,669  WARN [Worker-18] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 22:57:10,669  WARN [Worker-18] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 22:59:24,058 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Unexptected error - most likely due to an illegal position
+java.lang.AssertionError: assertion failed: bad position: [2152:2148]
+	at scala.reflect.internal.util.Position$.validate(Position.scala:34)
+	at scala.reflect.internal.util.Position$.range(Position.scala:51)
+	at scala.reflect.internal.util.InternalPositionImpl$class.copyRange(Position.scala:205)
+	at scala.reflect.internal.util.InternalPositionImpl$class.withStart(Position.scala:124)
+	at scala.reflect.internal.util.Position.withStart(Position.scala:12)
+	at scala.tools.refactoring.common.EnrichedTrees$TreeMethodsForPositions.namePosition(EnrichedTrees.scala:268)
+	at org.scalaide.core.internal.decorators.semantichighlighting.classifier.SafeSymbol$$anonfun$8.apply(SafeSymbol.scala:138)
+	at org.scalaide.core.internal.decorators.semantichighlighting.classifier.SafeSymbol$$anonfun$8.apply(SafeSymbol.scala:138)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:457)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:431)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2016-07-18 22:59:24,657 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Unexptected error - most likely due to an illegal position
+java.lang.AssertionError: assertion failed: bad position: [2152:2148]
+	at scala.reflect.internal.util.Position$.validate(Position.scala:34)
+	at scala.reflect.internal.util.Position$.range(Position.scala:51)
+	at scala.reflect.internal.util.InternalPositionImpl$class.copyRange(Position.scala:205)
+	at scala.reflect.internal.util.InternalPositionImpl$class.withStart(Position.scala:124)
+	at scala.reflect.internal.util.Position.withStart(Position.scala:12)
+	at scala.tools.refactoring.common.EnrichedTrees$TreeMethodsForPositions.namePosition(EnrichedTrees.scala:268)
+	at scala.tools.refactoring.implementations.MarkOccurrences$$anonfun$scala$tools$refactoring$implementations$MarkOccurrences$$occurrencesForSymbol$1$1.apply(MarkOccurrences.scala:25)
+	at scala.tools.refactoring.implementations.MarkOccurrences$$anonfun$scala$tools$refactoring$implementations$MarkOccurrences$$occurrencesForSymbol$1$1.apply(MarkOccurrences.scala:25)
+	at scala.collection.immutable.List.map(List.scala:277)
+	at scala.tools.refactoring.implementations.MarkOccurrences.scala$tools$refactoring$implementations$MarkOccurrences$$occurrencesForSymbol$1(MarkOccurrences.scala:25)
+	at scala.tools.refactoring.implementations.MarkOccurrences$$anonfun$2.apply(MarkOccurrences.scala:65)
+	at scala.tools.refactoring.implementations.MarkOccurrences$$anonfun$2.apply(MarkOccurrences.scala:33)
+	at scala.collection.immutable.List.flatMap(List.scala:327)
+	at scala.tools.refactoring.implementations.MarkOccurrences.occurrencesOf(MarkOccurrences.scala:33)
+	at org.scalaide.core.internal.decorators.markoccurrences.ScalaOccurrencesFinder$$anonfun$findOccurrences$1$$anonfun$5.apply(ScalaOccurrencesFinder.scala:75)
+	at org.scalaide.core.internal.decorators.markoccurrences.ScalaOccurrencesFinder$$anonfun$findOccurrences$1$$anonfun$5.apply(ScalaOccurrencesFinder.scala:73)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:457)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:431)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2016-07-18 22:59:25,645 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Unexptected error - most likely due to an illegal position
+java.lang.AssertionError: assertion failed: bad position: [2152:2148]
+	at scala.reflect.internal.util.Position$.validate(Position.scala:34)
+	at scala.reflect.internal.util.Position$.range(Position.scala:51)
+	at scala.reflect.internal.util.InternalPositionImpl$class.copyRange(Position.scala:205)
+	at scala.reflect.internal.util.InternalPositionImpl$class.withStart(Position.scala:124)
+	at scala.reflect.internal.util.Position.withStart(Position.scala:12)
+	at scala.tools.refactoring.common.EnrichedTrees$TreeMethodsForPositions.namePosition(EnrichedTrees.scala:268)
+	at org.scalaide.core.internal.decorators.semantichighlighting.classifier.SafeSymbol$$anonfun$8.apply(SafeSymbol.scala:138)
+	at org.scalaide.core.internal.decorators.semantichighlighting.classifier.SafeSymbol$$anonfun$8.apply(SafeSymbol.scala:138)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:457)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:431)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2016-07-18 22:59:35,180 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Unexptected error - most likely due to an illegal position
+java.lang.AssertionError: assertion failed: bad position: [2178:2174]
+	at scala.reflect.internal.util.Position$.validate(Position.scala:34)
+	at scala.reflect.internal.util.Position$.range(Position.scala:51)
+	at scala.reflect.internal.util.InternalPositionImpl$class.copyRange(Position.scala:205)
+	at scala.reflect.internal.util.InternalPositionImpl$class.withStart(Position.scala:124)
+	at scala.reflect.internal.util.Position.withStart(Position.scala:12)
+	at scala.tools.refactoring.common.EnrichedTrees$TreeMethodsForPositions.namePosition(EnrichedTrees.scala:268)
+	at org.scalaide.core.internal.decorators.semantichighlighting.classifier.SafeSymbol$$anonfun$8.apply(SafeSymbol.scala:138)
+	at org.scalaide.core.internal.decorators.semantichighlighting.classifier.SafeSymbol$$anonfun$8.apply(SafeSymbol.scala:138)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:457)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:431)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2016-07-18 23:00:15,115  WARN [Worker-22] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 23:00:15,115  WARN [Worker-22] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 23:02:10,928  WARN [Worker-22] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 23:02:10,929  WARN [Worker-22] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 23:02:59,510  WARN [Worker-19] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 23:02:59,510  WARN [Worker-19] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 23:03:09,624  WARN [Worker-19] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 23:03:09,624  WARN [Worker-19] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 23:18:14,241  WARN [Worker-26] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 23:18:14,241  WARN [Worker-26] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 23:37:40,740 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:37:40,742 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:37:53,982 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:37:53,982 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:39:32,406  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-07-18 23:39:32,612  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-07-18 23:39:32,829  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-07-18 23:39:39,534  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-07-18 23:40:22,355  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-07-18 23:40:33,491  WARN [Worker-34] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 23:40:33,491  WARN [Worker-34] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 23:41:10,657  WARN [Worker-32] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 23:41:10,658  WARN [Worker-32] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 23:41:52,859  WARN [Worker-35] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 23:41:52,860  WARN [Worker-35] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 23:42:48,004  WARN [Worker-35] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 23:42:48,004  WARN [Worker-35] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 23:42:49,608 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:42:49,608 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:42:49,608 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:42:52,713  WARN [Worker-32] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 23:42:52,713  WARN [Worker-32] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 23:43:21,390 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:43:21,390 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:43:21,391 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:43:21,391 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:43:21,392 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:43:21,392 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:43:21,392 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:43:21,392 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:43:21,392 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:43:21,392 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:43:21,393 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:43:21,393 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:43:21,394 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:43:25,483 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:43:25,484 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:43:25,484 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:44:29,753 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:44:29,753 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:44:33,667  WARN [Worker-36] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 23:44:33,667  WARN [Worker-36] - ScalaProject - Project Week6 runs on platform default installation.
+2016-07-18 23:44:37,171  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-07-18 23:44:37,541 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:44:37,542 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:44:37,542 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-18 23:44:45,645  WARN [Worker-32] - ScalaProject - Project Week6 has platform default sourceLevel.
+2016-07-18 23:44:45,646  WARN [Worker-32] - ScalaProject - Project Week6 runs on platform default installation.

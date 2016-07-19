@@ -1,0 +1,6 @@
+object ListExperiments {
+  def main(args: List[String]): Unit = {
+    val x = List(1, 2, 3, 4, 5)
+    println("Length of x" + x.length.toString)
+  }
+}
